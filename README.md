@@ -107,4 +107,5 @@ Maak een methode ```squareRoot``` aan die de vierkantswortel van een getal berek
 Hiervoor kan je dus geen hele getallen gebruiken.
 Dit is een extra opdracht, dus hier moet je zelf wat meer voor uitzoeken. 
 De volgende les gaat hier wat dieper op in.
-Google is je vriend. Je kan dit!
+Google is je vriend. Je kan dit!\
+_Hint_ kijk naar https://en.wikipedia.org/wiki/Methods_of_computing_square_roots#Heron's_method
