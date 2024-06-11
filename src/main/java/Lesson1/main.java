@@ -1,10 +1,10 @@
-import Lesson1.Lesson1;
+package Lesson1;
 
 public class main {
     // Hier hoef je nog niet naar te kijken. Dit is code om jouw opdrachten te testen,
     // maar voel je vrij als je wilt kijken wat er hier gebeurd :).
     public static void main(String[] args) {
-        Lesson1 test = new Lesson1();
+        var test = new Lesson1();
 
         System.out.printf("Volgens jouw programma is %d plus %d gelijk aan %d\n", 5, 6, test.add(5,6));
         System.out.printf("en %d keer %d is gelijk aan %d\n", 8, 2, test.multiply(8,3));
