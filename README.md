@@ -39,7 +39,6 @@ Maak 3 methodes aan die de volgende dingen doen:\
 ```add5times``` - telt 5 op bij het eerste getal, en vermenigvuldigt vervolgens met het tweede getal\
 Let op! Het is hierbij belangrijk dat de naam van de methode precies hetzelfde is als de naam hierboven. 
 Anders werken de tests niet :(.
-Maak eerst alle methodes aan, daarna kan je testen of het werkt door het programma te starten
 
 ## Lesson 2 - Let's do that again
 ### Uitleg
