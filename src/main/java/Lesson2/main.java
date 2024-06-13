@@ -27,7 +27,7 @@ public class main {
 
             Method fact = test.getClass().getMethod("fact", int.class);
             int res = (int) fact.invoke(test, a);
-            if (res == (int) Math.pow(2, 6)) {
+            if (res == 120) {
                 System.out.println("Je \"fact\" doet het!");
             } else {
                 System.out.printf("%d! is %d, jouw antwoord was %d\n", a, 120, res);
