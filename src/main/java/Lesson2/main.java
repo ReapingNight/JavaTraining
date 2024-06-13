@@ -50,7 +50,7 @@ public class main {
                 System.out.printf("Goed geprobeerd, maar het is het nog net niet. Jij had als antwoord: %.6f. Het antwoord is: %.6f. Het verschil is %f\n", res, Math.sqrt(17), e);
             }
         } catch (Exception e) {
-
+            System.out.println("Er is iets mis gegaan. Gebruik je hele getallen in plaats van comma getallen?");
         }
     }
 }
